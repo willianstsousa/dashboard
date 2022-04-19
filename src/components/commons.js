@@ -8,7 +8,7 @@ export const DivMainRouter = styled.div`
 `;
 export const DivMain = styled.div`
     color:#f5f5f5;
-    width:100%;
+    width:calc(100% - 370px);
     padding: 20px;
 
     input{

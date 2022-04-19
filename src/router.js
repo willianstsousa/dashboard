@@ -8,7 +8,7 @@ export default function Router() {
         <DivMainRouter>
             <Menu />
             <Routes>
-                <Route exact path="/dashboard" element={<Dashboard />} />
+                <Route exact path="/" element={<Dashboard />} />
             </Routes>
         </DivMainRouter>
     </BrowserRouter>

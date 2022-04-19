@@ -1,6 +1,6 @@
 import React from 'react';
 import { DivFooter, DivMainMenu, DivMainProfile, NavLinkStyled, DivOptions } from './styledMenu';
-const optionsMenu = [{ option: "Dashboard", path: "/dashboard" },
+const optionsMenu = [{ option: "Dashboard", path: "/" },
 { option: "Statistics", path: "/statistics" },
 { option: "Payments", path: "/payment" },
 { option: "Transactions", path: "/transactions" },
